@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jon-read-github/static/css/main.219bcfde.chunk.css",
+    "main.js": "/jon-read-github/static/js/main.56c11131.chunk.js",
+    "main.js.map": "/jon-read-github/static/js/main.56c11131.chunk.js.map",
+    "runtime-main.js": "/jon-read-github/static/js/runtime-main.2a9b6ce2.js",
+    "runtime-main.js.map": "/jon-read-github/static/js/runtime-main.2a9b6ce2.js.map",
+    "static/js/2.05a43f55.chunk.js": "/jon-read-github/static/js/2.05a43f55.chunk.js",
+    "static/js/2.05a43f55.chunk.js.map": "/jon-read-github/static/js/2.05a43f55.chunk.js.map",
+    "index.html": "/jon-read-github/index.html",
+    "precache-manifest.dcfbf3b693d9839c30725e0d24e61a94.js": "/jon-read-github/precache-manifest.dcfbf3b693d9839c30725e0d24e61a94.js",
+    "service-worker.js": "/jon-read-github/service-worker.js",
+    "static/css/main.219bcfde.chunk.css.map": "/jon-read-github/static/css/main.219bcfde.chunk.css.map",
+    "static/js/2.05a43f55.chunk.js.LICENSE.txt": "/jon-read-github/static/js/2.05a43f55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a9b6ce2.js",
+    "static/js/2.05a43f55.chunk.js",
+    "static/css/main.219bcfde.chunk.css",
+    "static/js/main.56c11131.chunk.js"
+  ]
+}
