@@ -70,6 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ###
 Acknowledgment to Shedrack Akintayo for internet sample code (e.g. hosted on www.smashingmagazine.com)
 Acknowledgment to Greg Lim, author of various books on React (e.g. Beginning React with Hooks)
+Acknowledgment to Sabesan Sathananthan article on hosting React app on GitHub pages
 ###
 
 Visual Studio Code with ESLint / JavaScript Standard Style
@@ -77,3 +78,6 @@ Visual Studio Code with ESLint / JavaScript Standard Style
 For simple yet enhanced fetch install isomorphic-fetch package https://www.npmjs.com/package/isomorphic-fetch
 
 npm install isomorphic-fetch
+
+npm install gh-pages --save-dev
+
