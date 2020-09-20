@@ -16,13 +16,13 @@
   flex-direction: row;
 }
 .container h1 {
-  font-size: 60px;
+  font-size: 30px;
   text-align: center;
   color: var(--basic-color);
 }
 .repo-container {
   width: 50%;
-  height: 600px;
+  height: 400px;
   margin: 50px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
   overflow: scroll;
