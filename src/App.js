@@ -4,6 +4,8 @@ import './App.css'
 import Person from './components/Person'
 import List from './components/List'
 import withListLoading from './components/withListLoading'
+import globe from './globe.svg'
+
 function App () {
   const ListLoading = withListLoading(List)
   const [appState, setAppState] = useState({
@@ -23,6 +25,9 @@ function App () {
   }, [setAppState])
   return (
     <div className='App'>
+      <header className='App-header'>
+        <img src={globe} className='App-globe' alt='globe' />
+      </header>
       <div className='container'>
         <h1>Repositories of {fullName}</h1>
       </div>
